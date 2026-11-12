@@ -1,4 +1,4 @@
-# interactor-elixir-enet
+# interactor-enet
 
 An Elixir implementation of the ENet reliable UDP protocol, with DTLS, ported from Erlang.
 
